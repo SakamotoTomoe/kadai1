@@ -68,21 +68,15 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  .main_box {
+
+  main {
     width: 100%;
     display: block;
   }
 
-  .main_img1 {
+  .main_box {
     width: 90%;
-  }
-
-  .main_img2 {
-    width: 90%;
-  }
-
-  .main_img3 {
-    width: 90%;
+    margin: 20px auto;
   }
 }
 
